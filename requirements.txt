@@ -1,2 +1,3 @@
 numpy==1.21.6        # For neural network computations and matrix operations
-pygame==1.9.6        # For the graphical interface and user interaction (drawing)
+pygame==2.6.1        # For the graphical interface and user interaction (drawing)
+Pillow==9.5.0
